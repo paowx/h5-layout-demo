@@ -22,14 +22,14 @@ body {
   margin: 0 auto;
 }
 
-@media screen and (min-width: 750px) {
+/*@media screen and (min-width: 750px) {
   html{
     font-size: 40Px;
   }
   body{
     max-width: 750Px;
   }
-}
+}*/
 
 
 #app {
